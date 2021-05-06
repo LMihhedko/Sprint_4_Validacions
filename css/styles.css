@@ -1,0 +1,23 @@
+.background {
+  background-image: url("../img/tarta.jpg");
+  background-size: cover;
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+}
+
+.carousel {
+  width: 50%;
+  margin: auto;
+}
+
+.form-inline {
+  width:350px;
+}
+
+#pass-text{
+  font-size:12px;
+}
